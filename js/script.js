@@ -1,8 +1,7 @@
 (() => {
   "use strict";
 
-  // Set this to Vincent's international WhatsApp number (digits only) before publishing.
-  const WHATSAPP_NUMBER = "";
+  const WHATSAPP_NUMBER = "254710241295";
 
   const products = [
     { id: "light-bed", name: "Light Upholstered Bed", category: "bedroom", label: "Bedroom", description: "A finished upholstered bed with a distinctive padded headboard and matching frame.", image: "images/2.jpg", alt: "Finished light upholstered bed displayed at the workshop", detail: "A finished upholstered bed photographed on display. Contact Vincent to ask about availability, sizes, fabric, and pricing." },
